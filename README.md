@@ -1,6 +1,6 @@
 - 👋 Hi, I’m George Knowles
-- 👀 I’m interested in C Sharp and Desktop Development!
-- 🌱 I’m currently learning C Sharp
+- 👀 I’m interested in Web Development, especially projects relating to the NodeJS/Postgres tech stack.
+- 🌱 I’m currently learning C++, Typescript and Front End Frameworks (React/Vue/Angular)
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 Send me a message if you want to collaborate with one another!
 
