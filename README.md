@@ -1,7 +1,7 @@
 - 👋 Hi, I’m George Knowles
-- 👀 I’m interested in Web Development, especially projects relating to the NodeJS/Postgres tech stack.
-- 🌱 I’m currently learning C++, Typescript and Front End Frameworks (React/Vue/Angular)
-- 💞️ I’m looking to collaborate on Open Source Projects
+- 👀 I’m currently working in Logistics Automation, for SSI Schaefer.
+- 🌱 I’m currently learning C++ and Operating Systems development.
+- 💞️ I’m looking to collaborate on Open Source Projects related to Linux kernel development.
 - 📫 Send me a message if you want to collaborate with one another!
 
 <!---
